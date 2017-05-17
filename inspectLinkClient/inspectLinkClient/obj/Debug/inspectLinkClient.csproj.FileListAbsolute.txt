@@ -1,0 +1,6 @@
+c:\users\pcpie\documents\visual studio 2015\Projects\inspectLinkClient\inspectLinkClient\bin\Debug\inspectLinkClient.exe.config
+c:\users\pcpie\documents\visual studio 2015\Projects\inspectLinkClient\inspectLinkClient\bin\Debug\inspectLinkClient.exe
+c:\users\pcpie\documents\visual studio 2015\Projects\inspectLinkClient\inspectLinkClient\bin\Debug\inspectLinkClient.pdb
+c:\users\pcpie\documents\visual studio 2015\Projects\inspectLinkClient\inspectLinkClient\obj\Debug\inspectLinkClient.exe
+c:\users\pcpie\documents\visual studio 2015\Projects\inspectLinkClient\inspectLinkClient\obj\Debug\inspectLinkClient.pdb
+C:\Users\pcpie\Documents\Visual Studio 2015\Projects\inspectLinkClient\inspectLinkClient\obj\Debug\inspectLinkClient.csprojResolveAssemblyReference.cache
