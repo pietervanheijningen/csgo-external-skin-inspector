@@ -1,0 +1,12 @@
+c:\users\pcpie.laptop-d873grd7\documents\visual studio 2015\Projects\inspectlink_server\inspectlink_server\bin\Debug\inspectlink_server.exe.config
+c:\users\pcpie.laptop-d873grd7\documents\visual studio 2015\Projects\inspectlink_server\inspectlink_server\bin\Debug\inspectlink_server.exe
+c:\users\pcpie.laptop-d873grd7\documents\visual studio 2015\Projects\inspectlink_server\inspectlink_server\bin\Debug\inspectlink_server.pdb
+c:\users\pcpie.laptop-d873grd7\documents\visual studio 2015\Projects\inspectlink_server\inspectlink_server\obj\Debug\inspectlink_server.csprojResolveAssemblyReference.cache
+c:\users\pcpie.laptop-d873grd7\documents\visual studio 2015\Projects\inspectlink_server\inspectlink_server\obj\Debug\inspectlink_server.exe
+c:\users\pcpie.laptop-d873grd7\documents\visual studio 2015\Projects\inspectlink_server\inspectlink_server\obj\Debug\inspectlink_server.pdb
+C:\Users\pcpie\Documents\Visual Studio 2015\Projects\inspectlink_server\inspectlink_server\bin\Debug\inspectLinkServer.exe.config
+C:\Users\pcpie\Documents\Visual Studio 2015\Projects\inspectlink_server\inspectlink_server\bin\Debug\inspectLinkServer.exe
+C:\Users\pcpie\Documents\Visual Studio 2015\Projects\inspectlink_server\inspectlink_server\bin\Debug\inspectLinkServer.pdb
+C:\Users\pcpie\Documents\Visual Studio 2015\Projects\inspectlink_server\inspectlink_server\obj\Debug\inspectlink_server.csprojResolveAssemblyReference.cache
+C:\Users\pcpie\Documents\Visual Studio 2015\Projects\inspectlink_server\inspectlink_server\obj\Debug\inspectLinkServer.exe
+C:\Users\pcpie\Documents\Visual Studio 2015\Projects\inspectlink_server\inspectlink_server\obj\Debug\inspectLinkServer.pdb
